@@ -1,5 +1,5 @@
-# hello-world
-My first repository on GitHub
+# hello, World!
+My first repository.
 
 Author: Choche
 Date: 2022-09-23
